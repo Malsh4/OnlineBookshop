@@ -1,0 +1,28 @@
+📥 Download the Project
+
+You can get the project using one of the following methods:
+
+1. Clone the repository using Git:
+git clone https://github.com/Malsh4/OnlineBookshop.git
+
+2. Download the project as a ZIP file:
+Visit the GitHub repository and click on the "Code" button, then select "Download ZIP".
+
+🚀 Run the Backend Server
+
+cd backend
+npm install
+npm run server
+
+
+💻 Run the Frontend Client
+
+cd Front
+npm install
+npm run dev
+
+
+🌐 Access the Application
+
+Open your browser and go to:
+http://localhost:5173/
